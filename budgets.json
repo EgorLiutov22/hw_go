@@ -1,0 +1,17 @@
+[
+  {
+    "category": "еда",
+    "limit": 5000,
+    "period": "month"
+  },
+  {
+    "category": "развлечения",
+    "limit": 2000,
+    "period": "month"
+  },
+  {
+    "category": "коммуналка",
+    "limit": 7000,
+    "period": "month"
+  }
+]
